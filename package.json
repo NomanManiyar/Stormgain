@@ -1,0 +1,11 @@
+{
+  "name": "stormgain",
+  "version": "1.0.0",
+  "main": "stormgain.js",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "opencv-wasm": "^4.3.0-10",
+    "puppeteer": "^14.1.1"
+  }
+}
